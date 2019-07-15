@@ -4,7 +4,7 @@
 
 ## Origin Paper
 
-Ring Signatures[^1]
+Ring Signatures[1]
 
 ## Ring Signatures ?
 
@@ -32,5 +32,5 @@ CryptoNote Tech.에서 처음으로 Ring signatures를 사용
 
 ![1563176391993](C:\Users\Ing\AppData\Roaming\Typora\typora-user-images\1563176391993.png)
 
-[^1]: Ring Signatures: Stronger Definitions, and Constructions without Random Oracles. Adam Bender, Jonathan Katz, Ruggero Morselli. Advances in Cryptology - Asiacrypt 2001
+[1]: Ring Signatures: Stronger Definitions, and Constructions without Random Oracles. Adam Bender, Jonathan Katz, Ruggero Morselli. Advances in Cryptology - Asiacrypt 2001
 
